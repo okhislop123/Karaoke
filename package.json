@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/okhislop123/karaoke",
+  "homepage": "https://okhislop123.github.io/Karaoke",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
@@ -22,6 +22,7 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-youtube": "^10.1.0",
+    "surge": "^0.24.6",
     "zustand": "^5.0.5"
   },
   "devDependencies": {
